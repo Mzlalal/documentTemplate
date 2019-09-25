@@ -1,0 +1,5 @@
+安装jenkins.war至tomcat
+
+构建maven项目主要需要两个插件
+1. subversion.hpi
+2. maven-plugin.hpi
