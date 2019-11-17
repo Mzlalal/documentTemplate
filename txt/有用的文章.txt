@@ -1,0 +1,20 @@
+温故而知新，可以为师矣。
+#================ spring
+java后台接收数组https://blog.csdn.net/sdzhangshulong/article/details/54598785
+
+#================ springboot
+tomcat运行springboot项目乱码在catalina.bat中头部添加属性 set JAVA_OPTS=-Dfile.encoding=UTF-8
+
+#================ redis
+Windows下搭建Redis集群https://www.cnblogs.com/tommy-huang/p/6240083.html
+
+#================ maven
+maven-deploy失败解决https://www.cnblogs.com/aquariusm/p/6255643.html
+maven打包javadoc报错使用命令mvn install -Dmaven.javadoc.skip=true -Dgpg.skip 文章：https://www.whatled.com/post-6158.html
+
+#================ nginx
+nigin基本用法https://blog.csdn.net/liuhailiuhai12/article/details/75009661
+nginx之proxy_pass代理路径详解https://blog.csdn.net/zhongzh86/article/details/70173174
+
+#================ bootstrap
+bootstrap multiselect多选下拉框API https://blog.csdn.net/fangzilixia/article/details/51265112
