@@ -4,6 +4,8 @@ java后台接收数组https://blog.csdn.net/sdzhangshulong/article/details/54598
 
 #================ springboot
 tomcat运行springboot项目乱码在catalina.bat中头部添加属性 set JAVA_OPTS=-Dfile.encoding=UTF-8
+springboot 中单元测试按钮无法出现， 在class前添加public
+自定义注解在类上使用时不生效https://segmentfault.com/q/1010000008418069/a-1020000008421029
 
 #================ redis
 Windows下搭建Redis集群https://www.cnblogs.com/tommy-huang/p/6240083.html
